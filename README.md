@@ -16,8 +16,6 @@
 ## 📖 Tentang Proyek
 Proyek ini adalah sebuah aplikasi interaktif berbasis web yang memprediksi harga rumah di kawasan Jakarta. Menggunakan kombinasi algoritma **Random Forest** dan **XGBoost** (Voting Regressor), aplikasi ini mampu memberikan estimasi harga berdasarkan berbagai spesifikasi properti yang diinputkan oleh pengguna.
 
-> **Demo Aplikasi:** *(Tambahkan link aplikasi Anda di sini jika sudah di-deploy, misal: [Klik di sini untuk mencoba!](https://tautan-streamlit-anda.app))*
-
 ---
 
 ## ✨ Fitur Utama
